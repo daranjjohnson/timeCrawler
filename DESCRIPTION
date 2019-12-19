@@ -1,0 +1,14 @@
+Package: timeCrawler
+Title: Time functions not found in R.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Functions that make some repetative time/date functions easier.
+License: None
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.99.9000
